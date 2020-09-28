@@ -2,6 +2,14 @@ package unl.cse;
 
 import java.util.Scanner;
 
+/**
+ * A demonstration/driver program that interactively
+ * reads input from the user (command line) and computes
+ * various statistics on the entered values.
+ * 
+ * @author cbourke
+ *
+ */
 public class StatisticsDemo {
 
 	public static void main(String args[]) {

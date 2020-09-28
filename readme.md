@@ -273,6 +273,11 @@ a neat trick that most IDEs provide is as follows.
 3. Type the new variable name and hit enter and it will automatically 
 be changed for all instances!  
 
+Finally, every *non-trivial* class and method should have documentation.
+In Java, it is standard to use doc-style or "javadoc" comments.  Look
+at the `Statistics.java` file again to see the format for these style of comments.
+Add documentation to this file to complete it.
+
 ### 4.3 Finishing The Program
 
 Though the program should have no syntax errors, if you run it, no 

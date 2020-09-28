@@ -4,6 +4,9 @@ import org.joda.time.DateTime;
 import org.joda.time.Interval;
 import org.joda.time.Period;
 
+// This is some sort of java program
+// I guess, this is really bad documentation
+//so Im not ReAlLy SuRe.
 public class Birthday {public static void main(String args[]) {
 		
 String name = "Java";

@@ -3,6 +3,7 @@ package unl.cse;
 public class Statistics {
 
 	public static int getSum(int array[]) {
+	  //TODO: implement
 	  return 0;
 	}
 	
@@ -26,6 +27,7 @@ public class Statistics {
 	}
 	
 	public static int getMax(int array[]) {
+	  //TODO: implement
 	  return 0;
 	}
 }

@@ -63,12 +63,14 @@ lab.
 ### 1.1. Setup
 
 #### 1.1.1. Claim your CSE Account  
+
 If you do not yet have your CSE credentials, you can claim them
 at the following URL: https://cse-apps.unl.edu/amu/claim 
 If you already have a CSE account but do not remember your 
 password you can reset it at the same URL. 
 
 #### 1.1.2. Install Java Developer Kit  
+
 You may already have "Java" installed on your computer, but this
 is most likely the Java Virtual Machine (JVM) that allows you to
 run Java programs.  To actually develop Java programs you need a
@@ -90,6 +92,11 @@ primarily use for this course.  You can download and install
 Eclipse at the following URL.
 
 https://www.eclipse.org/
+
+***IMPORTANT*** When you run the installer be sure to select and
+install the **Eclipse IDE for Enterprise Java Developers** and
+*not* the one just for Java Developers.  We'll use some of the 
+features of this version in future labs.
 
 ## 2. Checking Out Code From Github Using Eclipse
 

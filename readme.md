@@ -5,7 +5,8 @@ An introduction to the Java programming language and tools
 including Eclipse, Eclipse Git client, etc.  
 
 A separate folder containing a PHP version of this lab is
-included for the honors section.
+included for the honors section.  Instructions for the PHP
+version can be found below.
 
 This is a lab used in Computer Science II (CSCE 156, CSCE 156H) 
 in the [Department of Computer Science & Engineering](https://cse.unl.edu) 
@@ -186,7 +187,7 @@ Virtual Machine (JVM).
 
 4. Click on the "play" button as highlighted (click "Proceed" if prompted):
 <p align="center">
-<img src="images/eclipseScreen.png" alt="Eclipse Screen" width="25%"/>
+<img src="images/eclipseScreen.png" alt="Eclipse Screen" width="50%"/>
 </p>
 5. The output for this program will appear in the "console" tab at the bottom.
 6. Click on the console tab and enter the input as specified.

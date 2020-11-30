@@ -303,8 +303,6 @@ In Java, variable values can be concatenated with strings using the `+`
 will output `Happy Birthday`.  If it is not the user's birthday, output 
 `Your friends have XX shopping days until your next birthday`
 again with an appropriate variable value.
-4. Complete your worksheet and demonstrate your working code to a 
-lab instructor.
 
 ## 5. Testing, Submitting, & Grading your lab
 

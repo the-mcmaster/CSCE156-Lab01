@@ -173,11 +173,11 @@ user for their birthdate (year, month, day) and computes how old they are.
 Proper testing is an essential fundamental with software development.  Python
 has a standard `unittest` package for unit testing functions.
 
-- Run the `statisticsDemo.py` script and provide a sequence of numbers
+- Run the `statistics_demo.py` script and provide a sequence of numbers
   as command line arguments as an ad-hoc test of the statistics functions in
   `statistics.py`.  For example:
 
-  `python statisticsDemo.py 10 20 30`
+  `python statistics_demo.py 10 20 30`
 
   Observe that the output is incomplete because two of the
   functions (`maximum()` and `sumVals()`) have not yet been implemented.

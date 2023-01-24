@@ -16,8 +16,13 @@ public class Statistics {
 	 * @return
 	 */
 	public static int getSum(int array[]) {
-		// TODO: implement
-		return 0;
+		if (array == null || array.length == 0)
+			return 0;
+		int sum = array[0];
+		for (int i = 1; i < array.length; i++) {
+			sum = sum + array[i];
+		}
+		return sum;
 	}
 
 	/**
@@ -52,9 +57,22 @@ public class Statistics {
 		return min;
 	}
 
-	//TODO: add documentation
+	/**
+	 * Computes the maximum element in the given array of
+	 * integers.
+	 * 
+	 * @param array
+	 * @return
+	 */
 	public static int getMax(int array[]) {
-		// TODO: implement
-		return 0;
+		if (array == null || array.length == 0)
+			return 0;
+		int max = array[0];
+		for (int i = 1; i < array.length; i++) {
+			if (array[i] > max) {
+				max = array[i];
+			}
+		}
+		return max;
 	}
 }
